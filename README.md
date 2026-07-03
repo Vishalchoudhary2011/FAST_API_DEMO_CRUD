@@ -38,3 +38,10 @@ needs to install
 
 #6
 We can deploying you code using "Render" 
+
+
+#NEW FAst API
+we used pydentic for validations of field
+
+you can go with this url
+https://www.youtube.com/watch?v=YxT0K5oEehk
